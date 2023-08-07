@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: #5a71bb;
+  text-align: center;
+  color: white;
+  padding: 20px 0;
+}
+
+.titulo {
+  text-align: center;
+  padding: 10px;
+}
+
+.placar {
+  color: #5a71bb;
+  background-color: white;
+  padding: 8px 10px;
+  border-radius: 10px;
+}
+
+.player-options,
+.enemy-options {
+  width: 50%;
+}
+
+.player-options img,
+.enemy-options img {
+  max-width: 100px;
+  opacity: 0.3;
+  cursor: pointer;
+}
+
+.align {
+  display: flex;
+}
