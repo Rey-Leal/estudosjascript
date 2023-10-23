@@ -9,7 +9,7 @@
 <body>
     <div class="main">
         <h2>PokeDex</h2>
-        </br>
+        <br>
         <input type="text" id="quantidade" name="quantidade" placeholder="Digite a quantidade de Pokemons para busca via API">
 
         <div class="pokemon-boxes">
