@@ -6,8 +6,13 @@
 </head>
 
 <body>
+    <nav>
+        <div class="nav-wrapper light-blue darken-2 white-text">
+            <p class="brand-logo">Estudos JavaScript</p>
+        </div>
+    </nav>
+
     <div class='row'>
-        <h4>Estudos JavaScript</h4>
         <div class='col'>
             <dl>
                 <dt>01 Lógica e Exercícios</dt>
