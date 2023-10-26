@@ -8,6 +8,7 @@
 <body>
     <nav>
         <div class="nav-wrapper light-blue darken-2 white-text">
+        <img src="content/images/icone.ico" width="65" height="65"/>
             <p class="brand-logo">Estudos JavaScript</p>
         </div>
     </nav>
